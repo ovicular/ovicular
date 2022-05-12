@@ -24,5 +24,3 @@ I am a UI designer and developer who specializes in Lua, Python and Javascript
 ---
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ovicular&theme=dark&show_icons=true&hide_border=true)
-
-Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/ovicular)
