@@ -4,7 +4,6 @@
 
 I am a UI designer and developer who specializes in Lua, Python and Javascript
  
- 🔭 I’m planning for a Project named **Lunar**.
  
  🌱 I’m currently learning TS
  
