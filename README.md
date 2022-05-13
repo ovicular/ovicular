@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **UI design or almost anything related!**
 
-- 📫 How to reach me **Add me on Discord! nickk#5538**
+- 📫 Add me on Discord! **nickk#5538**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
